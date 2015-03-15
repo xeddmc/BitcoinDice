@@ -1,3 +1,10 @@
+<b>I have cloned this script for harm reduction purposes. This is taken from felinegamblers script, in which she alegedly placed backdoors into.
+<br>
+I know that this script was originally a paid script, and this is not an attempt to undermine the original developers work and effort. In reality, people will use the script no matter what, and a lot will get burned because of malicious people. 
+<br>
+So, I will work on cleaning this for those that can't afford 1.1BTC and will use a free script regardless. Getting funds stolen is never fun, and nobody should ever have to endure that, even if the script is ...pirated?..</b>
+
+<br>
 BitcoinDice is a popular Bitcoin Dice game, BitcoinDice is free to use and distribute.<br>
 <br>
 == Pre-Requisites ==<br>
